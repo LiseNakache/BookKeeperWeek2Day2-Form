@@ -1,3 +1,9 @@
-Password {
-    text-align: center;
+a:hover {
+    color:pink;
+}
+
+a {
+    font-size: 50px;
+    width:100%;
+    float:left;
 }
